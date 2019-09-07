@@ -1,0 +1,6 @@
+framework module signalr_io_plugin {
+  umbrella header "signalr_io_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}

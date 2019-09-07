@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml:2:3-50
+		INJECTED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml
+INJECTED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml
+		ADDED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/android/src/main/AndroidManifest.xml

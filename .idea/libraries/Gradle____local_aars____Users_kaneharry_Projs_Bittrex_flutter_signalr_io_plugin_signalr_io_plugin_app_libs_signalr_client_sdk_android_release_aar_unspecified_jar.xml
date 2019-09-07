@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/kaneharry/Projs/Bittrex/flutter_signalr_io_plugin/signalr_io_plugin/app/libs/signalr-client-sdk-android-release.aar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5989e1c6ea35a3f31cc0524cc391932/signalr-client-sdk-android-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5989e1c6ea35a3f31cc0524cc391932/signalr-client-sdk-android-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
